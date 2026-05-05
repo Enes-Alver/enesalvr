@@ -3,7 +3,10 @@
 Afyon Kocatepe Üniversitesi'nde **Elektrik-Elektronik Mühendisliği 2. sınıf öğrencisiyim.** Kendimi bildim bileli karmaşık sistemleri çözmeye, koda ve donanıma hükmetmeye meraklıyım. Şu an enerjimin büyük bir kısmını suyun altına, otonom sistemlere ve yerli teknolojiye harcıyorum.
 
 ### 🌊 Su Altındaki Gözünüz: AquaTeam
-13 kişilik dev bir mühendislik ekibi olan **AquaTeam'in liderliğini yapıyorum.** Takımımla birlikte otonom su altı araçları (ROV) geliştiriyor, sensör füzyonu ve gömülü sistemler üzerinde ter döküyoruz. Hedefimiz belli: Teknofest ve ötesinde zirveye oynamak.
+13 kişilik dev bir mühendislik ekibi olan **AquaTeam'in liderliğini yapıyorum.** Takımımla birlikte iki farklı otonom platform geliştiriyoruz:
+*   **Coral ROV:** Ana sistemimiz.
+*   **Coral Mini ROV:** Kompakt ve çevik platformumuz.
+Sensör füzyonu, gömülü sistemler ve ileri düzey kontrol algoritmaları üzerinde ter döküyoruz. Hedefimiz belli: Teknofest ve ötesinde zirveye oynamak.
 
 ### 🛠️ Nelerle Uğraşıyorum?
 *   **Yazılım:** Python ve PyQt5 ile modern arayüzler geliştiriyorum.
