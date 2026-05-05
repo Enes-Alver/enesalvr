@@ -8,7 +8,7 @@ Afyon Kocatepe Üniversitesi'nde **Elektrik-Elektronik Mühendisliği 2. sınıf
 ### 🛠️ Nelerle Uğraşıyorum?
 *   **Yazılım:** Python ve PyQt5 ile modern arayüzler geliştiriyorum.
 *   **Donanım:** Pixhawk, Jetson Orin Nano ve mikrodenetleyicilerle haşır neşirim.
-*   **Mekanik:** Solidworks'e hakimim ve modellediğim ürünleri baskı alıp satıyorum.
+*   **Mekanik:** Solidworks'e hakimim ve modellediğim ürünleri katmanlı üretim teknolojileri (3D Printing) ile prototipleme süreçlerinde kullanıyorum.
 
 ### 🎯 Kariyer Hedefim
 Gözümü kararttım, rotam belli: **ASELSAN** başta olmak üzere Türk Savunma Sanayii'nde kritik projelerde yer almak ve milli teknolojinin bir parçası olmak.
